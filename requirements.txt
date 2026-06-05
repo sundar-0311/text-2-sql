@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+chromadb
+sentence-transformers
+langchain
+langchain-community
+langchain-ollama
+langchain-huggingface
+pandas
+python-multipart
